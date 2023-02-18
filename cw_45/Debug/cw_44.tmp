@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313"</DEVICE>
+ <WORKING_DIR>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\Debug/cw_44.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cw_44.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cw_44.map</FILE>
+  <FILE>cw_44.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MainLoop><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\main.asm</FILE><LINE>56</LINE></MainLoop>
+  <DigitTo7segCode><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\main.asm</FILE><LINE>78</LINE></DigitTo7segCode>
+  <DelayInMs><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\main.asm</FILE><LINE>97</LINE></DelayInMs>
+  <Divide><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\main.asm</FILE><LINE>134</LINE></Divide>
+  <NumberToDigits><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\main.asm</FILE><LINE>168</LINE></NumberToDigits>
+  <Table><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\main.asm</FILE><LINE>94</LINE></Table>
+  <IncrementationOfZ><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\main.asm</FILE><LINE>83</LINE></IncrementationOfZ>
+  <EndOfIncrementationOfZ><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\main.asm</FILE><LINE>88</LINE></EndOfIncrementationOfZ>
+  <Start><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\main.asm</FILE><LINE>104</LINE></Start>
+  <CounterLoop><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\main.asm</FILE><LINE>107</LINE></CounterLoop>
+  <Loop2><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\main.asm</FILE><LINE>110</LINE></Loop2>
+  <End><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\main.asm</FILE><LINE>113</LINE></End>
+  <DelayOneMs><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\main.asm</FILE><LINE>120</LINE></DelayOneMs>
+  <CounterLoopDelayOneMs><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\main.asm</FILE><LINE>125</LINE></CounterLoopDelayOneMs>
+  <EndOfDelayOneMs><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\main.asm</FILE><LINE>129</LINE></EndOfDelayOneMs>
+  <comparing><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\main.asm</FILE><LINE>153</LINE></comparing>
+  <subtraction><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_44\main.asm</FILE><LINE>149</LINE></subtraction>
+ </LABELS>
+</ASSEMBLER_INFO>

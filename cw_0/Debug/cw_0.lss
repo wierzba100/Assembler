@@ -1,0 +1,33 @@
+
+AVRASM ver. 2.1.57  C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm Wed Oct 27 10:53:21 2021
+
+[builtin](2): Including file 'C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313def.inc'
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(59): error: Overlap in .cseg: addr=0x0 conflicts with 0x0:0x8
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(61): error: Overlap in .cseg: addr=0x4 conflicts with 0x0:0x8
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(62): error: Use of undefined or forward referenced symbol 'PCIBaddr' in .org
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(62): error: Overlap in .cseg: addr=0x0 conflicts with 0x0:0x8
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(68): error: Overlap in .cseg: addr=0x1 conflicts with 0x0:0x8
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(69): error: Overlap in .cseg: addr=0x2 conflicts with 0x0:0x8
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(70): error: Overlap in .cseg: addr=0x3 conflicts with 0x0:0x8
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(72): error: Overlap in .cseg: addr=0x4 conflicts with 0x0:0x8
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(73): error: Overlap in .cseg: addr=0x5 conflicts with 0x0:0x8
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(76): error: Overlap in .cseg: addr=0x6 conflicts with 0x0:0x8
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(77): error: Overlap in .cseg: addr=0x7 conflicts with 0x0:0x8
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(267): warning: .def: 'XL' redefinition (r26->r16)
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(268): warning: .def: 'XH' redefinition (r27->r17)
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(270): warning: .def: 'YL' redefinition (r28->r18)
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(271): warning: .def: 'YH' redefinition (r29->r19)
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(275): warning: Register r16 already defined by the .DEF directive
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(276): warning: Register r17 already defined by the .DEF directive
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(278): warning: Register r18 already defined by the .DEF directive
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(279): warning: Register r19 already defined by the .DEF directive
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(282): warning: Register r24 already defined by the .DEF directive
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(283): warning: Register r25 already defined by the .DEF directive
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(301): warning: .def: 'RL' redefinition (r16->r16)
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(301): warning: Register r16 already defined by the .DEF directive
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(302): warning: .def: 'RH' redefinition (r17->r17)
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(302): warning: Register r17 already defined by the .DEF directive
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(303): warning: .def: 'QL' redefinition (r18->r18)
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(303): warning: Register r18 already defined by the .DEF directive
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(304): warning: .def: 'QH' redefinition (r19->r19)
+C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_0\main.asm(304): warning: Register r19 already defined by the .DEF directive

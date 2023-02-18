@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATtiny2313"</DEVICE>
+ <WORKING_DIR>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_39\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_39\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\tn2313def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_39\Debug/cw_39.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>cw_39.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>cw_39.map</FILE>
+  <FILE>cw_39.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Table><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_39\main.asm</FILE><LINE>91</LINE></Table>
+  <MainLoop><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_39\main.asm</FILE><LINE>67</LINE></MainLoop>
+  <Loop><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_39\main.asm</FILE><LINE>99</LINE></Loop>
+  <DigitTo7segCode><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_39\main.asm</FILE><LINE>93</LINE></DigitTo7segCode>
+  <DelayInMs><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_39\main.asm</FILE><LINE>110</LINE></DelayInMs>
+  <Start><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_39\main.asm</FILE><LINE>115</LINE></Start>
+  <CounterLoop><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_39\main.asm</FILE><LINE>118</LINE></CounterLoop>
+  <Loop2><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_39\main.asm</FILE><LINE>121</LINE></Loop2>
+  <End><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_39\main.asm</FILE><LINE>124</LINE></End>
+  <Segment_1><FILE>C:\Users\filip\Desktop\Programowanie niskopoziomowe\1_AVR\zadania\cw_39\main.asm</FILE><LINE>131</LINE></Segment_1>
+ </LABELS>
+</ASSEMBLER_INFO>
